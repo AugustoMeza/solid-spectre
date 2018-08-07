@@ -1,0 +1,21 @@
+.main-footer
+{
+  position:fixed;
+  flex: 1 1 auto;
+  -moz-box-align: center;
+  width: 100%;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.footer-text 
+{
+  text-align: center;
+}
+
+footer {
+  margin-bottom: 0px;
+  padding: 20px;
+  font-family: 'Roboto Slab', serif;
+  background-color: #fff;
+}
